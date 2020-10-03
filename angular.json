@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-redux"
+    }
+  },
+  "defaultProject": "angular-redux",
+  "cli": {
+    "analytics": false
+  }
 }
